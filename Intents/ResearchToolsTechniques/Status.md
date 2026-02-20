@@ -4,7 +4,7 @@
 | No. | Name | Status | Est. | Actual | Notes |
 |----:|------|--------|-----:|-------:|-------|
 | 1   | Survey 2D Animation Tools | Done | 2h | | Selected: Blender Grease Pencil |
-| 2   | Evaluate Scripting & APIs | Todo | 2h | | Blender Python API (bpy) for GP |
+| 2   | Evaluate Scripting & APIs | Done | 2h | | Resolved during Intent 01 — Blender GP chosen for best API |
 | 3   | Research Asset Pipeline | Todo | 2h | | Depends on 01 |
 | 4   | Research Storyboard Workflow | Todo | 2h | | Depends on 01 |
 | 5   | Research Animation Workflow | Todo | 2h | | Depends on 02 |
