@@ -5,7 +5,7 @@
 |----:|------|--------|-----:|-------:|-------|
 | 1   | Survey 2D Animation Tools | Done | 2h | | Selected: Blender Grease Pencil |
 | 2   | Evaluate Scripting & APIs | Done | 2h | | Resolved during Intent 01 — Blender GP chosen for best API |
-| 3   | Research Asset Pipeline | Todo | 2h | | Depends on 01 |
+| 3   | Research Asset Pipeline | Done | 2h | | Folder-based asset library, Python-scriptable, tenant isolation via folders |
 | 4   | Research Storyboard Workflow | Todo | 2h | | Depends on 01 |
 | 5   | Research Animation Workflow | Todo | 2h | | Depends on 02 |
 | 6   | Research Sound Integration | Todo | 2h | | Depends on 04, 05 |
