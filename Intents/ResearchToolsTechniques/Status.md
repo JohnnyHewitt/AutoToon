@@ -10,7 +10,7 @@
 | 5   | Research Animation Workflow | Done | 2h | | Actions + NLA for reuse, all scriptable. Animation library = Phase II data task |
 | 6   | Research Sound Integration | Done | 2h | | Sound = asset type. Blender VSE for sync, all scriptable |
 | 7   | Evaluate MCP Feasibility | Done | 2h | | Confirmed. Asset Manager → MCP → Blender headless (bpy) |
-| 8   | Tool Selection Report | Todo | 2h | | Depends on 01–07 |
+| 8   | Tool Selection Report | Done | 2h | | Decision doc complete. Ready for Phase II. |
 
 > Claude may update **Status** column. Human owns **Actual** column.
 
