@@ -7,7 +7,7 @@
 | 2   | Evaluate Scripting & APIs | Done | 2h | | Resolved during Intent 01 — Blender GP chosen for best API |
 | 3   | Research Asset Pipeline | Done | 2h | | Folder-based asset library, Python-scriptable, tenant isolation via folders |
 | 4   | Research Storyboard Workflow | Done | 2h | | Build custom in Phase II — 90% data mgmt, MCP-enabled, Fountain script format |
-| 5   | Research Animation Workflow | Todo | 2h | | Depends on 02 |
+| 5   | Research Animation Workflow | Done | 2h | | Actions + NLA for reuse, all scriptable. Animation library = Phase II data task |
 | 6   | Research Sound Integration | Todo | 2h | | Depends on 04, 05 |
 | 7   | Evaluate MCP Feasibility | Todo | 2h | | Depends on 02 |
 | 8   | Tool Selection Report | Todo | 2h | | Depends on 01–07 |
